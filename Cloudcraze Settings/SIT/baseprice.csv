@@ -1,0 +1,2 @@
+id,isdeleted,name,currencyisocode,setupownerid,createddate,createdbyid,lastmodifieddate,lastmodifiedbyid,systemmodstamp,lastvieweddate,lastreferenceddate,currency_isocode__c,pricelist_name__c,storefront_name__c,
+a8U3B000000CaY3UAK,false,DefaultStore USD,USD,00D3B0000008ukZUAQ,2017-03-01 16:28:03,0053B000000fTg9QAE,2017-03-01 16:28:03,0053B000000fTg9QAE,2017-03-01 16:28:03,,,USD,Enterprise,DefaultStore,

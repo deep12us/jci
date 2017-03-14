@@ -1,0 +1,2 @@
+id,isdeleted,name,currencyisocode,setupownerid,createddate,createdbyid,lastmodifieddate,lastmodifiedbyid,systemmodstamp,lastvieweddate,lastreferenceddate,apipaymentservice__c,enablepaymenttokenization__c,hopheight__c,hoppagestep2__c,hoppage__c,hopreceiptprocessor__c,hopwidth__c,integrationtypestep2__c,integrationtype__c,paymentflow__c,performimmediatesettlement__c,primarygateway__c,
+a993B000000Cb6LQAS,false,DefaultStore,USD,00D3B0000008ukZUAQ,2017-03-01 16:27:22,0053B000000fTg9QAE,2017-03-01 16:27:22,0053B000000fTg9QAE,2017-03-01 16:27:22,,,,true,100%,,,,365,,,1-Step,false,,

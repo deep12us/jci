@@ -1,0 +1,2 @@
+id,isdeleted,name,currencyisocode,setupownerid,createddate,createdbyid,lastmodifieddate,lastmodifiedbyid,systemmodstamp,lastvieweddate,lastreferenceddate,attributename__c,attributevalue__c,locationfilter__c,paymentgateway__c,storefrontname__c,
+a97G0000000PAu4IAG,false,1,USD,00DG0000000hBllMAE,2016-06-16 00:38:26,005G0000007ZLpxIAG,2016-06-16 00:38:26,005G0000007ZLpxIAG,2016-06-16 00:38:26,,,,,,CyberSource,DefaultStore,

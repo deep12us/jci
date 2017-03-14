@@ -1,0 +1,91 @@
+Page,Section,Attribute,Value,Enabled
+all,Checkout,pmts,"cc,cpo", Enabled
+all,Custom Widget Left Nav,Enabled,TRUE, Enabled
+all,Custom Widget Left Nav,PIName,cc_EmptyPage, Enabled
+all,Effective Account,Enabled,TRUE, Enabled
+all,Google Analytics Include,Enabled,TRUE, Enabled
+all,Header Include End,Enabled,TRUE, Enabled
+all,Header Include End,PIName,c__cc_jci_PortalHeaderInclude, Enabled
+all,pmt_cc,Pay,c__cc_jci_PaymentFrame, Enabled
+all,pmt_cpo,Pay,c__cc_jci_CustomPOPay, Enable
+all,Search Box,ACE,TRUE, Enabled
+all,Search/Filter Widget,ACE,TRUE, Enabled
+all,Shipping Options,DsplShipComplete,TRUE, Enable
+all,Shipping Options,ShowReqDate,TRUE, Enabled
+all,Style Sheet,10,css/jquery-ui-theme/jquery-ui-custom.css, Enabled
+all,Style Sheet,102,css/bootstrap_overwrite.css, Enabled
+all,Style Sheet,100,css/styles.css, Enabled
+all,Style Sheet,90,css/bootstrap.css, Enabled
+all,Style Sheet,105,css/fonts.css, Enabled
+all,Wishlists/Templates,PkrOn,TRUE, Enabled
+Cart,Body Includes End,PIName,c__cc_jci_CartInclude, Enabled
+Cart,Body Includes End,Enabled,TRUE, Enabled
+Cart,Cart,EnableEmailCart,FALSE, Enabled
+Check Out,Body Includes End,Enabled,TRUE, Enabled
+Check Out,Body Includes End,PIName,c__cc_jci_CheckoutReviewInclude, Enabled
+Check Out,Order Review,ShowReviewText,TRUE, Enabled
+Home,Body Includes Begin,Enabled,FALSE, Enabled
+Home,Body Includes End,Enabled,TRUE, Enabled
+Home,Body Includes End,PIName,c__cc_jci_HomePageInclude, Enabled
+Home,Breadcrumb,PIName,Empty, Enabled
+Home,Breadcrumb,UsePI,FALSE, Enabled
+Home,Breadcrumb,Enabled,TRUE, Enabled
+Home,Category Tree,UsePI,FALSE, Enabled
+Home,Category Tree,PIName,cc_store_LeftNavIncl, Enabled
+Home,Cross-sells,Enabled,TRUE, Enabled
+Home,Header,Enabled,TRUE, Enabled
+Home,Header,PIName,cc_store_HeaderIncl, Enabled
+Home,Header,TagLine,images/home/tagline.gif, Enable
+Home,Header,Logo,images/homepage_header_graphic.png, Enabled
+Home,Header,UsePI,FALSE, Enabled
+Home,Mini-cart,DsplMsg,Empty, Enabled
+Home,Mini-cart,DsplImg,Empty, Enabled
+Home,Mini-cart,NoDspl,Empty, Enabled
+Home,Mini-cart,UsePI,FALSE, Enabled
+Home,Mini-cart,PIName,Empty, Enabled
+Home,Mini-cart,Enabled,TRUE, Enabled
+Home,Mini-cart,PrdName,Empty, Enabled
+Home,Mini-cart,Title,Empty, Enabled
+Home,Mini-cart,DsplItemAmt,Empty, Enabled
+Home,Promotions,UsePI,FALSE, Enabled
+Home,Promotions,DsplLink,Empty, Enabled
+Home,Promotions,DsplImg,Empty, Enabled
+Home,Promotions,PIName,Empty, Enabled
+Home,Promotions,Enabled,TRUE, Enabled
+Home,Promotions,DsplMsg,Empty, Enabled
+Home,Quick Order,NoLine,Empty, Enabled
+Home,Quick Order,UsePI,FALSE, Enabled
+Home,Quick Order,PIName,cc_store_QuickOrderWidgetIncl, Enabled
+Home,Quick Order,DsplAddMore,Empty, Enabled
+Home,Quick Order,Enabled,FALSE, Enabled
+Home,Quick Order,DsplAddCart,Empty, Enabled
+Home,Quick Order,DsplInst,Empty, Enabled
+Home,Search Box,ACE,TRUE, Enabled
+Home,Style Sheet,100,css/js-image-slider.css, Enabled
+Home,tmpl,page,c__cc_jci_tmpl_ThreeCol, Enabled
+My Account,Body Includes End,Enabled,TRUE, Enabled
+My Account,Body Includes End,PIName,c__cc_jci_MyAccountContactInfoInclude, Enabled
+My Account,My Orders,DsplPONumber,TRUE, Enabled
+My Account,My Orders,ShAmdBt,FALSE, Enabled
+My Account,My Orders,ShCanBt,FALSE, Enabled
+My Account,User Profile,ShowCF2,FALSE, Enabled
+My Account,User Profile,ShowCF1,FALSE, Enabled
+Order Confirmation,Body Includes End,Enabled,TRUE, Enabled
+Order Confirmation,Body Includes End,PIName,c__cc_jci_OrderDetailRD, Enabled
+Order View,Body Includes End,Enabled,TRUE, Enabled
+Order View,Body Includes End,PIName,c__cc_jci_OrderDetailRD, Enabled
+Product Details,Body Includes End,PIName,c__cc_jci_ProductDetailsInclude, Enabled
+Product Details,Body Includes End,Enabled,TRUE, Enabled
+Product Details,Product Reviews,Enabled,FALSE, Enabled
+Product Details,Product Social Widget,Enabled,TRUE, Enabled
+Product Details,Style Sheet,10,css/style-simpletooltip-min.css, Enabled
+Product Details,tmpl,page,c__cc_jci_tmpl_ThreeCol, Enabled
+Product List,Body Includes End,PIName,c__cc_jci_ProductListInclude, Enabled
+Product List,Body Includes End,Enabled,TRUE, Enabled
+Product List,Cross-sells,Enabled,TRUE, Enabled
+Product List,Quick Order,qob,FALSE, Enabled
+Product List,Quick Order,Enabled,FALSE, Enabled
+Product List,tmpl,page,c__cc_jci_tmpl_ThreeCol, Enabled
+Site Register,User Profile(Registration),ShowCF2,TRUE, Enabled
+Site Register,User Profile(Registration),ShowCF1,TRUE, Enabled
+Site Register Confirm,Registration,Enabled,FALSE, Enabled
